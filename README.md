@@ -115,6 +115,9 @@ Dentro del dokerfile
 ![image](https://user-images.githubusercontent.com/91556752/172458600-65fccfb2-a09b-4a3d-bc6e-73d7f9706510.png)
 
 
+![image](https://user-images.githubusercontent.com/91556752/172462752-1428ced1-c585-47fc-8d32-cf82085674e0.png)
+
+
 
 
 Hcemos click derecho en el docker-compose.yml y selecionamos Compose Up -Select Services
