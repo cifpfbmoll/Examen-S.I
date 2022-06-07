@@ -106,5 +106,10 @@ Este es nuestro docker-compose.yml
 
 
 ## 4- Preparación y subida de la imagen a dockerhub.
+
+![image](https://user-images.githubusercontent.com/91556752/172456545-120d0ce7-6a40-4d1b-b27e-41d326c68e37.png)
+
+
+
 ## 5- Conclusiones
 ## 6- Annexos (si lo consideráis necesario)
