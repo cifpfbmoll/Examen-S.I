@@ -107,6 +107,13 @@ Este es nuestro docker-compose.yml
 
 ## 4- Preparación y subida de la imagen a dockerhub.
 
+
+Dentro del dokerfile
+![image](https://user-images.githubusercontent.com/91556752/172458443-710ab779-948a-4bf3-820c-3270d8cc0df5.png)
+
+
+
+
 Hcemos click derecho en el docker-compose.yml y selecionamos Compose Up -Select Services
 ![image](https://user-images.githubusercontent.com/91556752/172456545-120d0ce7-6a40-4d1b-b27e-41d326c68e37.png)
 
