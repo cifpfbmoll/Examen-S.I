@@ -131,9 +131,21 @@ Selecionamos la opcion de nuestro proyecto.
 ![image](https://user-images.githubusercontent.com/91556752/172462985-c1663252-ee55-48ac-a989-22b980c07f25.png)
 
 
+Hacemos el push a dockerhub.
+
+![image](https://user-images.githubusercontent.com/91556752/172463889-de76788d-a9fc-4869-80f3-eb78be333058.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/91556752/172463258-e26b0bef-6f0f-40a0-b874-2f1de508a8b2.png)
+
+
+Aqui vemos que se ha subido.
+
+![image](https://user-images.githubusercontent.com/91556752/172464128-3ea2d64e-d148-4b6b-b029-d68c16b69c6a.png)
+
+
+
 
 
 
