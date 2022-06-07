@@ -110,6 +110,9 @@ Este es nuestro docker-compose.yml
 Hcemos click derecho en el docker-compose.yml y selecionamos Compose Up -Select Services
 ![image](https://user-images.githubusercontent.com/91556752/172456545-120d0ce7-6a40-4d1b-b27e-41d326c68e37.png)
 
+Selecionamos la opcion de nuestro proyecto.
+
+![image](https://user-images.githubusercontent.com/91556752/172457694-dcfc49b8-ee31-4a0a-b2e3-e7fd8cf040b9.png)
 
 
 ## 5- Conclusiones
