@@ -133,6 +133,9 @@ Selecionamos la opcion de nuestro proyecto.
 
 Hacemos el push a dockerhub.
 
+En la terminal sale un error de un comando mal ejecutado anteriormente pero ha funcionado.
+
+
 ![image](https://user-images.githubusercontent.com/91556752/172463889-de76788d-a9fc-4869-80f3-eb78be333058.png)
 
 
