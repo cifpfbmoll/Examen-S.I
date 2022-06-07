@@ -33,6 +33,11 @@ Ya lo tenemos creado y arrancado.
   
 
 
+### Vamos a crear tanto dockerfile como docker-compose.yml con la ayuda de la extension de Visual Studio Code.
+
+
+
+
 
 
 ------
