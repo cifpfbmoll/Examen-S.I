@@ -152,9 +152,19 @@ Aqui podemos ver que el contenedor se ha subido a docker hub y la imagen esta pu
 
 ![image](https://user-images.githubusercontent.com/91556752/172465149-03ac3781-b0e0-410d-b415-57850d084b45.png)
 
+Aqui podemos ver la web del proyecto
+
+![image](https://user-images.githubusercontent.com/91556752/172465460-54586d8a-1e58-4e76-90db-c6c2c4190740.png)
 
 
 ## 5- Conclusiones
+
+Hemos podido ver que si hacemos las cosas bien es mas facil crear el contenedor de Docker de nuestro propio proyecto.
+
+- Maven ha ayudado a generar todas las dependencias y el entorno necesario para poder funcionar.
+
+- Con la extension de Visual Studio Code tenemos que ir con cuidado ya que tenemos que generar nosotros el .war del proyecto y la ruta que nos genera puede no ser la correcta como ha sido en mi caso, i tendremos que modificarla.
+
 ## 6- Annexos (si lo consideráis necesario)
 
 
