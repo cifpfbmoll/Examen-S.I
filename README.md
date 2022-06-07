@@ -47,7 +47,13 @@ Una vez tenemos la extension creada, veremos este menu que nos permite ver mucha
 
 
 ------
-## 2- Configuración del archivo docker-compose.yml.
+## 2- Configuración.
+
+Con la extension de Docker del visual studio code nos vamos a la carpeta del proyecto que queremos dockerizar i hacemos "click derecho"
+![image](https://user-images.githubusercontent.com/91556752/172451323-35165e5d-9518-4cca-9869-8b4771878ac4.png)
+
+
+
 ## 3- Pasos para el despliegue de la aplicación.
 ## 4- Preparación y subida de la imagen a dockerhub.
 ## 5- Conclusiones
