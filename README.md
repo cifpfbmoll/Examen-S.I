@@ -132,5 +132,10 @@ Selecionamos la opcion de nuestro proyecto.
 
 
 
+
+![image](https://user-images.githubusercontent.com/91556752/172463258-e26b0bef-6f0f-40a0-b874-2f1de508a8b2.png)
+
+
+
 ## 5- Conclusiones
 ## 6- Annexos (si lo consideráis necesario)
