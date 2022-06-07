@@ -59,6 +59,24 @@ Vamos a hacer cmd+shift+p para desplegar el command panel.
 
 ![image](https://user-images.githubusercontent.com/91556752/172451785-729ecff2-9e0c-40cd-9647-322ad704db08.png)
 
+![image](https://user-images.githubusercontent.com/91556752/172452338-10580270-24da-49c5-9f98-49841c95851e.png)
+
+
+![image](https://user-images.githubusercontent.com/91556752/172452403-92fbf16f-ffc6-42ad-b7a3-c45ce9c571d3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/91556752/172452480-b173a849-648b-4672-a863-89731dc8b8ee.png)
+
+
+
+
+
+Por ultimo nos pide si queremos el docker-compose.yml
+
+
+![image](https://user-images.githubusercontent.com/91556752/172452718-b70df4e6-4964-4c10-ac2c-fb1bc0040c9b.png)
+
 
 ## 3- Pasos para el despliegue de la aplicación.
 ## 4- Preparación y subida de la imagen a dockerhub.
