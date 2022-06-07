@@ -78,6 +78,10 @@ Por ultimo nos pide si queremos el docker-compose.yml
 ![image](https://user-images.githubusercontent.com/91556752/172452718-b70df4e6-4964-4c10-ac2c-fb1bc0040c9b.png)
 
 
+
+Con todo esto nos aparecera lo siguiente.
+
+
 ## 3- Pasos para el despliegue de la aplicación.
 ## 4- Preparación y subida de la imagen a dockerhub.
 ## 5- Conclusiones
