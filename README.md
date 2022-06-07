@@ -128,8 +128,8 @@ Selecionamos la opcion de nuestro proyecto.
 ![image](https://user-images.githubusercontent.com/91556752/172457694-dcfc49b8-ee31-4a0a-b2e3-e7fd8cf040b9.png)
 
 
+![image](https://user-images.githubusercontent.com/91556752/172462985-c1663252-ee55-48ac-a989-22b980c07f25.png)
 
-![Uploading image.png…]()
 
 
 ## 5- Conclusiones
