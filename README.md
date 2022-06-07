@@ -89,6 +89,19 @@ Con todo esto nos aparecera lo siguiente.
 
 
 ## 3- Pasos para el despliegue de la aplicación.
+
+Una cosa muy a tener en cuenta es que en este proyecto hemos añadido las dependecias con Maven por lo cual nos ahorramos problemas con las dependencias del proyecto y tambien nos faciloita a la hora de dockerizar la aplicacion.
+
+Anteriormente hemos hecho los pasos de descargar una imagen de docker-hub en este caso una de Tomcat pero no la vamos a utilizar ya que estamos utilizando la extension de Visual Studio Code y con el POM.XML vamos a indicar todas las dependencias necesarias a docker para que el proyecto pueda ir sin ningun problema.
+
+
+
+Por este caso es muy recomendable tener un proyecto con Maven ya que nos va a ahorrar un monton de tiempo en la creacion de las dependencias y configuracion.
+
+
+
+
+
 ## 4- Preparación y subida de la imagen a dockerhub.
 ## 5- Conclusiones
 ## 6- Annexos (si lo consideráis necesario)
