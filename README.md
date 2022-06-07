@@ -81,6 +81,12 @@ Por ultimo nos pide si queremos el docker-compose.yml
 
 Con todo esto nos aparecera lo siguiente.
 
+![image](https://user-images.githubusercontent.com/91556752/172453542-8661f1cc-a76a-45bc-9ff5-56640caaa147.png)
+
+
+- Podemos ver que se han generado nuevos ficheros de docker, incluidos el dockerfile y el docker-Compose.
+
+
 
 ## 3- Pasos para el despliegue de la aplicación.
 ## 4- Preparación y subida de la imagen a dockerhub.
