@@ -112,6 +112,9 @@ Dentro del dokerfile
 ![image](https://user-images.githubusercontent.com/91556752/172458443-710ab779-948a-4bf3-820c-3270d8cc0df5.png)
 
 
+![image](https://user-images.githubusercontent.com/91556752/172458600-65fccfb2-a09b-4a3d-bc6e-73d7f9706510.png)
+
+
 
 
 Hcemos click derecho en el docker-compose.yml y selecionamos Compose Up -Select Services
@@ -120,6 +123,10 @@ Hcemos click derecho en el docker-compose.yml y selecionamos Compose Up -Select 
 Selecionamos la opcion de nuestro proyecto.
 
 ![image](https://user-images.githubusercontent.com/91556752/172457694-dcfc49b8-ee31-4a0a-b2e3-e7fd8cf040b9.png)
+
+
+
+![Uploading image.png…]()
 
 
 ## 5- Conclusiones
