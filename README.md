@@ -98,6 +98,9 @@ Anteriormente hemos hecho los pasos de descargar una imagen de docker-hub en est
 
 Por este caso es muy recomendable tener un proyecto con Maven ya que nos va a ahorrar un monton de tiempo en la creacion de las dependencias y configuracion.
 
+Este es nuestro docker-compose.yml
+
+![image](https://user-images.githubusercontent.com/91556752/172455732-1daf2998-d3d6-41fe-afdc-4beb7f25cc4a.png)
 
 
 
