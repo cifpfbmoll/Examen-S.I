@@ -35,6 +35,12 @@ Ya lo tenemos creado y arrancado.
 
 ### Vamos a crear tanto dockerfile como docker-compose.yml con la ayuda de la extension de Visual Studio Code.
 
+Una vez tenemos la extension creada, veremos este menu que nos permite ver mucha informacion de las imagenes, los contenedores y los volumenes de docker,la extension esta conectada ya con nuestra cuenta de Docker-Hub.
+
+
+
+![image](https://user-images.githubusercontent.com/91556752/172450756-294b0273-23d7-47da-b9fe-61164223d7ce.png)
+
 
 
 
