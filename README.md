@@ -148,7 +148,9 @@ Aqui vemos que se ha subido.
 ![image](https://user-images.githubusercontent.com/91556752/172464128-3ea2d64e-d148-4b6b-b029-d68c16b69c6a.png)
 
 
+Aqui podemos ver que el contenedor se ha subido a docker hub y la imagen esta publica.
 
+![image](https://user-images.githubusercontent.com/91556752/172465149-03ac3781-b0e0-410d-b415-57850d084b45.png)
 
 
 
