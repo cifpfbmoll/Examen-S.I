@@ -49,9 +49,15 @@ Una vez tenemos la extension creada, veremos este menu que nos permite ver mucha
 ------
 ## 2- Configuración.
 
-Con la extension de Docker del visual studio code nos vamos a la carpeta del proyecto que queremos dockerizar i hacemos "click derecho"
+Con la extension de Docker del visual studio code nos vamos a la carpeta del proyecto que queremos dockerizar.
+
+
 ![image](https://user-images.githubusercontent.com/91556752/172451323-35165e5d-9518-4cca-9869-8b4771878ac4.png)
 
+
+Vamos a hacer cmd+shift+p para desplegar el command panel.
+
+![image](https://user-images.githubusercontent.com/91556752/172451785-729ecff2-9e0c-40cd-9647-322ad704db08.png)
 
 
 ## 3- Pasos para el despliegue de la aplicación.
